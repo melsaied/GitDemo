@@ -29,7 +29,12 @@ i
 "write commit message"
 esc
 :wq
+'or'
+git add .
 git commit -m "Changes to be committed"
+git status
+
+
 
 git push
 
