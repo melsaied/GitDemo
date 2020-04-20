@@ -34,7 +34,9 @@ git add .
 git commit -m "Changes to be committed"
 git status
 
+git pull https://github.com/melsaied/GitDemo.git --allow-unrelated-histories
 
+git push origin master
 
 git push
 
