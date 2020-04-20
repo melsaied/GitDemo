@@ -33,7 +33,7 @@ esc
 git add .
 git commit -m "Changes to be committed"
 git status
-git add-commit -m 'My commit message'
+git commit -am "message"
 
 git pull https://github.com/melsaied/GitDemo.git --allow-unrelated-histories
 
