@@ -29,6 +29,7 @@ i
 "write commit message"
 esc
 :wq
+git commit -m "Changes to be committed"
 
 git push
 
