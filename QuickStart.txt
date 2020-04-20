@@ -1,0 +1,37 @@
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh
+
+
+
+sudo apt-get in stall git
+
+https://git-scm.com/download/mac
+
+git --version
+
+git git --help
+
+git init      Create an empty Git repository or reinitialize an existing one
+
+git config --global              use global config file git config --global              user.name 'First Last'
+git config --global              user.email 'email.mail.com'
+git config --global              user.data 'Any data'
+
+git add QuickStart.txt       Add file contents to the index
+git rm --cached QuickStart.txt
+git add .
+
+git status    Show the working tree status
+git add .
+
+git commit
+e
+i
+"write commit message"
+esc
+:wq
+
+git push
+
+git pull
+
+git clone
